@@ -11,7 +11,6 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
@@ -22,18 +21,6 @@
 * **Lớp học**: CS114.O21
 * **Ngày bắt đầu**: 19/02/2024
 * **Năm học**: 2023-2024
-## QUÁ TRÌNH MÔN HỌC
-<a name ="quatrinh"></a>
-### 1.LẬP TRÌNH PYTHON
-
-
-<a name ="colab"></a>
-### 2.COLAB ASSSIGNMENTS
-
-
-<a name ="QT"></a>
-### 3.QT IN CLASS
-
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
@@ -44,5 +31,7 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22521005      | Nguyễn Trọng Nhân |[enyx24](https://github.com/enyx24)          |22521005@gm.uit.edu.vn   |
+| 1      | 22520488      | Nguyễn Thái Học   |          |22520488@gm.uit.edu.vn   |
+| 1      | 22520649      | Nguyễn Duy Khang  |          |22520649@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
