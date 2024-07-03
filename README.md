@@ -32,6 +32,6 @@
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22521005      | Nguyễn Trọng Nhân |[enyx24](https://github.com/enyx24)          |22521005@gm.uit.edu.vn   |
 | 1      | 22520488      | Nguyễn Thái Học   |          |22520488@gm.uit.edu.vn   |
-| 1      | 22520649      | Nguyễn Duy Khang  |          |22520649@gm.uit.edu.vn   |
+| 1      | 22520619      | Nguyễn Duy Khang  |          |22520619@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
